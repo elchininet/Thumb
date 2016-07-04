@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300,300italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic);
+
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2, h3{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h2{
+	font-size: 15px;	
+}
+
+h3{
+	font-size: 12px;
+}
+
+.original, .reduced{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.original{
+	float: left;
+	margin-right: 10px;
+	width: 386px;
+}
+
+.reduced{
+	float: none;
+	width: auto;
+}
+
+.block{
+	clear: right;
+}
+
+.block .image{
+	float: left;
+	clear: right;
+	margin-right: 10px;
+}
+
+.block .code{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding-right: 10px;
+	float: none;
+	text-align: left;
+}
+
+.block1{
+	height: 134px;
+}
+
+.block2{
+	height: 150px;
+}
+
+pre.prettyprint{
+	border: none !important;
+}
