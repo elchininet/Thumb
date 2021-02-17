@@ -80,4 +80,4 @@ _Create a crop of the image_
 Demo
 ============
 
-[Functional demo](http://demos.xprimiendo.com/clase-php-para-crear-thumbnails-de-imagenes/)
+[Functional demo](https://xprimiendo.com/demo/en/php-class-to-create-image-thumbanils/)
